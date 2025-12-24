@@ -1,0 +1,14 @@
+make game object class so resets will be way easier to do 
+
+represent genomes 
+
+generate list 
+list plays the game 
+store their fitness 
+save the two highest ones 
+crossover and mutate 
+
+thats one generation 
+repeat 
+
+maybe add debugger ??? 
